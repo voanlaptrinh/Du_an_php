@@ -1,0 +1,244 @@
+.header{
+    display: flex;
+    background: #f4f4f4;
+    border-radius: 10px;
+}
+.logo{
+    border-radius: 10px;
+}
+.input-group{
+    width: 600px;
+    height: 50px;
+   padding-top: 37px;
+   padding-left: 170px;
+}
+.hang img{
+    padding-top: 37px;
+    padding-left: 30px;
+}
+.text_gio_hang{
+   
+    margin-top: -26px;
+    display: flex;
+   padding-left: 80px;
+}
+.text_gio_hang a{
+    color: black;
+    text-decoration: none;
+    padding-right: 150px;
+}
+.dang_ky_dang_nhap{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+    
+    display: flex;
+    border-radius: 10px;
+  
+}
+.dang_nhap{
+    margin-left: 23px;
+    margin-top: 25px;
+}
+.dang_ky{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+.dang_nhap a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.dang_ky a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.dang_nhap a:hover{
+    color: red;
+}
+.dang_ky a:hover{
+    color: red;
+}
+.banner{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+
+}
+.banner img{
+    border-radius: 10px;
+}
+.danh_muc{
+    margin-left: 20px;
+    width: 500px;
+    background: #8d8e8d;
+    border-radius: 10px;
+}
+.danh_muc h5{
+    font-size: 25px;
+    padding-top: 25px;
+    padding-left: 80px;
+}
+#nav {
+    background: #8d8e8d;
+    padding-left: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#nav a{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.sp_chay{
+    background: #8d8e8d;
+}
+.quan_ly{
+    background: #8d8e8d;
+    padding: 20px 0 0 20px;
+    width: 300px;
+    height: 80px;
+    margin: 8px 0 10px 0;
+    border-radius: 20px;
+}
+.form-group{
+   padding-top: 20px;
+}
+
+
+.content{
+    width: 1295px;
+    height: auto;
+    margin-top: 10px;
+    float: left;
+}
+.banner_left{
+    width: 900px;
+    height: auto;
+    float: left;
+    margin-top: 10px;
+}
+.banner_right {
+    width: 380px;
+    height: auto;
+    float: right;
+    margin-top: 10px;
+}
+.banner1{
+    width: 880px;
+    border-radius: 10px;
+    margin-left: 10px;
+    max-width: 100%;
+    transition: all 0.3s ease-in-out;
+    display: block;
+}
+.banner1:hover{
+    transform: scale(1.03);
+}
+.banner2{
+    width: 370px;
+    border-radius: 10px;
+    margin-right: 10px;
+    max-width: 100%;
+    transition: all 0.3s ease-in-out;
+    display: block;
+}
+.banner2:hover{
+    transform: scale(1.06);
+}
+.banner3{
+    margin-top: 55px;
+    width: 370px;
+    border-radius: 10px;
+    margin-right: 10px;
+    max-width: 100%;
+    transition: all 0.3s ease-in-out;
+    display: block;
+}
+.banner3:hover{
+    transform: scale(1.06);
+}
+.main{
+    width: 1290px;
+    height: auto;
+    float: left;
+    margin-top: 40px;
+}
+.left{
+    
+    width: 300px;
+    height: 400px;
+    background:#E0E0E0;
+    border-radius: 10px;
+    float: left;
+}
+.left h5{
+    font-size: 25px;
+    padding-left: 20px;
+    background: #8d8e8d;
+    border: top 10px; 
+    
+}
+.right{
+    width: 990px;
+    height: auto;
+    float: left;
+}
+.box1{
+    margin-left: 20px;
+    width: 970px;
+    height: 300px;
+}
+.box2{
+    margin-left: 20px;
+    width: 970px;
+    height: 300px;
+    float: left;
+}
+.box3{
+    margin-top: 40px;
+    margin-left: 20px;
+    width: 970px;
+    height: 300px;
+    float: left;
+}
+
+.anhtt1{
+    width: 400px;
+    border-radius: 10px;
+}
+.anhtt2{
+    width: 400px;
+    border-radius: 10px;
+
+}
+.box1 h5{
+    font-size: 25px;
+   margin-right: 20px;
+   float: right;
+    color:#FF0000;
+}
+.box2 h5{
+    font-size: 25px;
+   margin-right: 20px;
+   float: right;
+    color:#FF0000;
+}
+.box3 h5{
+    font-size: 25px;
+   margin-right: 20px;
+   float: right;
+    color:#FF0000;
+}
+.tintuc{
+    width: 520px;
+    float: right;
+}
+.tin{
+    float: right;
+    font-size: 20px;
+    text-align: justify;
+    margin-right: 20px;
+    
+}

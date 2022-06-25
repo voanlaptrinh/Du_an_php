@@ -1,0 +1,226 @@
+.header{
+    display: flex;
+    background: #f4f4f4;
+}
+.input-group{
+    width: 600px;
+    height: 50px;
+   padding-top: 37px;
+   padding-left: 170px;
+}
+.hang img{
+    padding-top: 37px;
+    padding-left: 30px;
+}
+.text_gio_hang{
+   
+    margin-top: -26px;
+    display: flex;
+   padding-left: 80px;
+}
+.text_gio_hang a{
+    color: black;
+    text-decoration: none;
+    padding-right: 150px;
+}
+.dang_ky_dang_nhap{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 250px;
+    
+    display: flex;
+    border-radius: 10px;
+  
+}
+.dang_nhap{
+    margin-left: 23px;
+    margin-top: 25px;
+}
+.dang_ky{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+.dang_nhap a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.dang_ky a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.dang_nhap a:hover{
+    color: red;
+}
+.dang_ky a:hover{
+    color: red;
+}
+.banner{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+
+}
+.banner img{
+    border-radius: 10px;
+}
+.danh_muc{
+    margin-left: 20px;
+    width: 500px;
+    background: #8d8e8d;
+    border-radius: 10px;
+}
+.danh_muc h5{
+    font-size: 25px;
+    padding-top: 25px;
+    padding-left: 80px;
+}
+#nav {
+    background: #8d8e8d;
+    padding-left: 40px;
+}
+#nav a{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.sp_chay{
+    background: #8d8e8d;
+}
+.quan_ly{
+    background: #8d8e8d;
+    padding: 20px 0 0 20px;
+    width: 300px;
+    height: 80px;
+    margin: 8px 0 10px 0;
+    border-radius: 20px;
+}
+.form-group{
+   padding-top: 20px;
+}
+
+.anhbanner{
+    width: 1295px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.content{
+    width: 1295px;
+    height: 600px;
+    margin-top: 10px;
+}
+.left{
+    width: 645px;
+    height: auto;
+    float: left;
+    margin-top: 20px;
+}
+.right {
+    width: 645px;
+    height: auto;
+    float: right;
+    margin-top: 20px;
+}
+.anh2{
+    width: 635px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+.anh3{
+    width: 635px;
+    margin-top: 35px;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.left h3{
+    font-size: 38px;
+    
+    font-weight: 600;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.text{
+    margin-left: 15px;
+    font-size: 24px;
+    text-align: justify;
+    margin-right: 15px;
+}
+.text1{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 5px;
+    font-size: 24px;
+    text-align: justify;
+}
+.gioithieu{
+    width: 1295px;
+    height: auto;
+    float: left;
+}
+.tieude{
+    font-size: 38px;
+    
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top:40px;
+}
+.box{
+    width: 400px;
+    height: auto;
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.box2{
+    width: 400px;
+    height: auto;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+   
+}
+.box3{
+    width: 400px;
+    height: auto;
+    margin-left: 30px;
+    float: left;
+    margin-top: 20px;
+}
+
+.anh4{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin-left: 40px;
+}
+.anh5{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin-left: 50px;
+}
+.anh6{
+    width: 300px;
+    height: 300px;
+    border-radius: 100%;
+    margin-left: 50px;
+}
+.text3{
+    margin-top: 40px;
+   text-align: center;
+    font-size: 32px;
+    font-weight: 600;
+}
+.ten{
+    margin-top: 40px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+.ten:hover{
+    color: red;
+}

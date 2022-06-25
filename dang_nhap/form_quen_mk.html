@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form_login</title>
+    <link rel="stylesheet" href="./../css/quen_mk.css">
+</head>
+<body>
+    <div id="container">
+        <form action="" class="form-login">
+            <h1>Tìm tài khoản của bạn</h1>
+            <div class="form-text">
+                <label for="">Email</label>
+                <input type="email">
+            </div>
+            <button><a href="./../index.php">Hủy</a></button>
+            <button><a href="">Tìm</a></button>
+           
+        </form>
+    </div>
+    <script>
+        const formLogin = document.querySelectorAll('.form-text input')
+        const formLabel = document.querySelectorAll('.form-text label')
+        for (let i = 0; i < 2; i++) {
+            formLogin[i].addEventListener("mouseover",function(){
+                formLabel[i].classList.add("focus")
+            })
+            formLogin[i].addEventListener("mouseout",function(){
+                if (formLogin[i].value == "") {
+                    formLabel[i].classList.remove("focus")
+                }
+               
+            })
+        }
+    </script>
+</body>
+</html>

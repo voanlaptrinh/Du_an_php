@@ -1,0 +1,179 @@
+.header{
+    display: flex;
+    background: #f4f4f4;
+}
+.input-group{
+    width: 600px;
+    height: 50px;
+   padding-top: 37px;
+   padding-left: 170px;
+    margin-left: 200px;
+}
+.hang img{
+    padding-top: 37px;
+    padding-left: 30px;
+}
+.text_gio_hang{
+   
+    margin-top: -26px;
+    display: flex;
+   padding-left: 80px;
+}
+.text_gio_hang a{
+    color: black;
+    text-decoration: none;
+    padding-right: 150px;
+}
+.dang_ky_dang_nhap{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+}
+.dang_nhap{
+    margin-left: 23px;
+    margin-top: 25px;
+}
+.dang_ky{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+.dang_nhap a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.dang_ky a{
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+}
+.dang_nhap a:hover{
+    color: red;
+}
+.dang_ky a:hover{
+    color: red;
+}
+.banner{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+
+}
+.banner img{
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.danh_muc{
+    margin-left: 20px;
+    width: 500px;
+    background: #8d8e8d;
+    border-radius: 10px;
+}
+.danh_muc h5{
+    font-size: 25px;
+    padding-top: 25px;
+    padding-left: 80px;
+}
+#nav {
+    background: #8d8e8d;
+    padding-left: 40px;
+}
+#nav a{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.sp_chay{
+    background: #8d8e8d;
+    border-radius: 20px;
+}
+.quan_ly{
+    background: #8d8e8d;
+    padding: 20px 0 0 20px;
+    width: 300px;
+    height: 80px;
+    margin: 8px 0 10px 0;
+    border-radius: 20px;
+}
+.row{
+    padding: 10 0 0 10px;
+}
+.list-product-title{
+    margin-top: -25px;
+    margin-bottom: 25px;
+    width: 370px;
+    background: #8d8e8d;
+    border-radius: 15px;
+    height: 50px;
+    padding-left: 30px;
+}
+.chi_tiet_sp{
+    background: #8d8e8d;
+    width: 370px;
+    border-radius: 15px;
+    height: 50px;
+    padding-left: 30px;
+    margin-top: 10px;
+}
+.mua{
+    display: flex;
+}
+.list ul li{
+    padding-top: 30px;
+    list-style-type: none;
+}
+.list ul li a{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+.list ul li a:hover{
+    color: black;
+}
+.chi_Tiet{
+    display: flex;
+    padding-top: 50px;
+
+}
+.dl-horizontal{
+    padding: 30px 0 0 50px;
+}
+.card-title{
+    text-align: center;
+    margin-bottom: 40px;
+    color: #2F4F4F;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.card-text{
+    font-size: 25px;
+    color: rgb(28, 14, 223);
+    margin: 0 0 20px;
+}
+.dropdown{
+    position: relative;
+    display: inline-block;
+
+ }
+
+ 
+ /*sub-menu*/
+.dropdown-content{
+    border-radius: 0 0 10px 10px;
+    display: none;
+    position: absolute;
+    background-color: #8d8e8d;
+    z-index: 1;
+    list-style: none;
+    width: 158px;
+ }
+ .dropdown:hover .dropdown-content{
+    display: block; 
+ }
+ .dropdown-content a:hover{
+    
+     background-color: white;
+     width: 118px;
+ }
+.banner .from {
+     margin-left: 30px;
+ }
